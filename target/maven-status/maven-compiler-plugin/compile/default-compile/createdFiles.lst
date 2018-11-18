@@ -1,0 +1,4 @@
+com/pmaher/model/ShortUrl.class
+com/pmaher/rest/ShortUrlController.class
+com/pmaher/service/ShortUrlRepository.class
+com/pmaher/app/Application.class
